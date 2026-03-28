@@ -4,9 +4,9 @@ Flex is known for its strict tests. Just like sUNC, ever since it was made, it w
 
 ---
 
-## Using the dedicated game & prorgam
+## Using the dedicated game & helper
 
-All tests **must** be conducted in the official Flex testing game, and must be accompanied by the Flex  - an external application used to verify functionality that cannot be reliable tested from the Luau environment.
+All tests **must** be conducted in the official Flex testing game, and must be accompanied by the Flex Helper - an external application used to verify functionality that cannot be reliably tested from the Luau environment.
 
 The official game may be found in our [Discord server](https://discord.gg/7AcZs3VmFx).
 

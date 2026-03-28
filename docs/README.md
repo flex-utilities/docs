@@ -15,7 +15,7 @@ Whether you're an executor developer, a curious tester, or a contributor helping
 ## 📚 Explore the Docs
 
 - [What is Flex?](./About/what-is-flex.md)
-- [How Flex Test Results Work](./About/test-results.md)
+- [How Flex test results work](./About/test-results.md)
 - [How to contribute](./About/contributing.md)
 
 <!-- ## 📜 The script
