@@ -1,0 +1,32 @@
+{
+	"yaml.schemas": {
+		"https://squidfunk.github.io/mkdocs-material/schema.json": "mkdocs.yml"
+	},
+	"yaml.customTags": [
+		"!ENV scalar",
+		"!ENV sequence",
+		"!relative scalar",
+		"tag:yaml.org,2002:python/name:material.extensions.emoji.to_svg",
+		"tag:yaml.org,2002:python/name:material.extensions.emoji.twemoji",
+		"tag:yaml.org,2002:python/name:pymdownx.superfences.fence_code_format",
+		"tag:yaml.org,2002:python/object/apply:pymdownx.slugs.slugify mapping"
+	],
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"editor.insertSpaces": false,
+	"editor.tabSize": 4,
+	"[markdown]": {
+		"editor.defaultFormatter": "yzhang.markdown-all-in-one"
+	},
+	"[yaml]": {
+		"editor.defaultFormatter": "redhat.vscode-yaml",
+		"editor.tabSize": 4,
+	},
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"Lua.diagnostics.globals": [
+		"p"
+	],
+	"stylua.targetReleaseVersion": "latest",
+}
