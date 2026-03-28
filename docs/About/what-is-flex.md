@@ -1,6 +1,6 @@
 # What is Flex?
 
-Flex is a separate standard from [sUNC](https://docs.sunc.su/About), designed as its "little brother" to provide a space for Quality of Life (QoL) functions that do not meet sUNC's strict inclusion criteria.
+Flex is a separate standard from [sUNC](https://docs.sunc.su/), designed as its "little brother" to provide a space for Quality of Life (QoL) functions that do not meet sUNC's strict inclusion criteria.
 
 ## Purpose and Design
 
