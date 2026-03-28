@@ -25,8 +25,7 @@ TODO: add note about requiring the flex helper to run in the background during t
 ```luau title="The Flex testing script" linenums="1"
 getgenv().FlexDebug = {
     ["printcheckpoints"] = false,
-    ["delaybetweentests"] = 0,
-    ["printtesttimetaken"] = false,
+    ["delaybetweentests"] = 0
 }
 
 loadstring(game:HttpGet("https://script.flex.gd/"))()
