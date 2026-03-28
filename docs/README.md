@@ -1,8 +1,8 @@
 # Flex Documentation
 
-Welcome to the official documentation for **Flex**.
+Welcome to the official documentation for **Flex**, a "smaller brother" of sUNC.
 
-This documentation site serves as the central knowledge base for understanding what Flex is, how it works, and how to contribute to the project.
+This documentation site serves as the central knowledge base for understanding what Flex is, how it works, how it differs from sUNC, and how to contribute to the project.
 
 Whether you're an executor developer, a curious tester, or a contributor helping document functions, you're in the right place!
 
